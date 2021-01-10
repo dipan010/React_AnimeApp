@@ -45,8 +45,8 @@ function App() {
         search = { search }
         SetSearch = { SetSearch }
         animeList = { animeList }
-        /> <
-        /div> <
+        /> < /
+        div > <
         /div>
     );
 }
